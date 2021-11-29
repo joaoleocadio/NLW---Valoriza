@@ -1,5 +1,22 @@
 # NLW - Valoriza
 
+## Regras
+
+- Criação de utilizadores
+  - Não é permitido criar mais do que um utilizador com o mesmo email;
+  - Não é permitido registar utilizador sem email;
+
+- Registo de TAG
+  - Não é permitido registar mais uma tag com o mesmo nome;
+  - Não é permitido registar tag sem nome;
+  - Não é permitido registar tags a utilizadores que não sejam administradores;
+
+- Registo de elogios
+  - Não é permitido um utilizador registar um elogio para ele próprio;
+  - Não é permitido registar elogios para utilizadores inválidos;
+  - Não é permitido registar utilizador sem email;
+  - O utilizador precisa de estar devidamente autenticado na aplicação.
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
